@@ -62,8 +62,6 @@ npm install
 npm run dev
 ```
 
----
-
 ## 🌐 Live Demo  
 
 🔗 https://zenocare-frontend-ofyn.onrender.com/  
